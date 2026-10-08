@@ -35,14 +35,14 @@ DMIT 的产品骨架可以用一句话概括：**三个机房 × 三种网络 ×
 
 | 你的情况 | 推荐产品线 | 参考月付 | 核心理由 |
 | --- | --- | --- | --- |
-| 中国电信，要回国最优 | 洛杉矶 AS3 Premium | $10.90/月 起 | CN2 GIA 三网回程；DMIT 客服原话「电信推荐 LAX Pro」 |
-| 中国联通，要晚高峰稳 | 洛杉矶 AS3 Eyeball | $10.90/月 起 | 回程全程联通不跨网，晚高峰实测 654Mbps、0 丢包 |
-| 中国移动，要美西落地 | 洛杉矶 AS3 Eyeball | $10.90/月 起 | 官方「移动推荐 LAX EB」；同档流量也比 Pro 多 |
-| 要最低延迟（华南 / 实时交互） | 中国香港 AS3 Premium | $39.90/月 起 | 至内地约 15ms、丢包 <0.1%，物理距离最近 |
-| 要亚太低延迟 + 回国线路 | 东京 AS3 Premium | $21.90/月 起 | CN2 GIA（AS23764），至内地约 28ms |
-| 预算优先，只要落地 / 中转 | 洛杉矶 AS3 Tier 1 | $6.90/月 起 | $6.90/月起，另有 $36.90/年 的 WEE 档 |
-| 要大流量国际带宽 | 洛杉矶 AN5 Tier 1 | $14.90/月 起 | VOLUME 系列 5TB 起，最大 320TB，每 GB 成本最低 |
-| 要最强单核性能 | 洛杉矶 AN5 Premium | $79.90/月 起 | EPYC 9005（Zen 5）+ DDR5，GB5 单核 1870 |
+| 中国电信，要回国最优 | 洛杉矶 AS3 Premium | [$10.90/月 起](https://www.dmit.io/aff.php?aff=27885&pid=253) [购买](https://www.dmit.io/aff.php?aff=27885&pid=253) | CN2 GIA 三网回程；DMIT 客服原话「电信推荐 LAX Pro」 |
+| 中国联通，要晚高峰稳 | 洛杉矶 AS3 Eyeball | [$10.90/月 起](https://www.dmit.io/aff.php?aff=27885&pid=259) [购买](https://www.dmit.io/aff.php?aff=27885&pid=259) | 回程全程联通不跨网，晚高峰实测 654Mbps、0 丢包 |
+| 中国移动，要美西落地 | 洛杉矶 AS3 Eyeball | [$10.90/月 起](https://www.dmit.io/aff.php?aff=27885&pid=259) [购买](https://www.dmit.io/aff.php?aff=27885&pid=259) | 官方「移动推荐 LAX EB」；同档流量也比 Pro 多 |
+| 要最低延迟（华南 / 实时交互） | 中国香港 AS3 Premium | [$39.90/月 起](https://www.dmit.io/aff.php?aff=27885&pid=265) [购买](https://www.dmit.io/aff.php?aff=27885&pid=265) | 至内地约 15ms、丢包 <0.1%，物理距离最近 |
+| 要亚太低延迟 + 回国线路 | 东京 AS3 Premium | [$21.90/月 起](https://www.dmit.io/aff.php?aff=27885&pid=138) [购买](https://www.dmit.io/aff.php?aff=27885&pid=138) | CN2 GIA（AS23764），至内地约 28ms |
+| 预算优先，只要落地 / 中转 | 洛杉矶 AS3 Tier 1 | [$6.90/月 起](https://www.dmit.io/aff.php?aff=27885&pid=271) [购买](https://www.dmit.io/aff.php?aff=27885&pid=271) | 另有年付 WEE 档（见产品价格表） |
+| 要大流量国际带宽 | 洛杉矶 AN5 Tier 1 | [$14.90/月 起](https://www.dmit.io/aff.php?aff=27885&pid=169) [购买](https://www.dmit.io/aff.php?aff=27885&pid=169) | VOLUME 系列 5TB 起，最大 320TB，每 GB 成本最低 |
+| 要最强单核性能 | 洛杉矶 AN5 Premium | [$79.90/月 起](https://www.dmit.io/aff.php?aff=27885&pid=58) [购买](https://www.dmit.io/aff.php?aff=27885&pid=58) | EPYC 9005（Zen 5）+ DDR5，GB5 单核 1870 |
 
 > **一句话记住三条线：**
 > - **Premium（Pro）= 电信向**：三网回程全走 CN2 GIA。DMIT 客服原话「电信网络推荐 LAX Pro 系列」。
@@ -55,21 +55,21 @@ DMIT 的产品骨架可以用一句话概括：**三个机房 × 三种网络 ×
 
 | 产品线 | 机房 | 网络 | 硬件 | 定位 | 最低档配置 | 流量 / 带宽 | 月付 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 洛杉矶 AS3 Premium | 美国 洛杉矶 | Premium | AS3 | 大陆优化 | 1 核 / 2GB / 20GB SSD | 1000GB / 1Gbps | $10.90/月 |
-| 洛杉矶 AN4 Premium | 美国 洛杉矶 | Premium | AN4 | 大陆优化 | 4 核 / 4GB / 80GB SSD | 5000GB / 10Gbps | $72.90/月 |
-| 洛杉矶 AN5 Premium | 美国 洛杉矶 | Premium | AN5 | 大陆优化 | 4 核 / 4GB / 80GB SSD | 5000GB / 10Gbps | $79.90/月 |
-| 中国香港 AS3 Premium | 中国香港 | Premium | AS3 | 大陆优化 | 1 核 / 1GB / 20GB SSD | 500GB / 1Gbps | $39.90/月 |
-| 中国香港 AN5 Premium | 中国香港 | Premium | AN5 | 大陆优化 | 4 核 / 4GB / 80GB SSD | 1500GB / 1Gbps | $149.90/月 |
-| 东京 AS3 Premium | 日本 东京 | Premium | AS3 | 大陆优化 | 1 核 / 1GB / 20GB SSD | 500GB / 1Gbps | $21.90/月 |
-| 洛杉矶 AS3 Eyeball | 美国 洛杉矶 | Eyeball | AS3 | 大陆优化 | 1 核 / 2GB / 20GB SSD | 1500GB / 2Gbps | $10.90/月 |
-| 洛杉矶 AN4 Eyeball | 美国 洛杉矶 | Eyeball | AN4 | 大陆优化 | 4 核 / 4GB / 80GB SSD | 10000GB / 10Gbps | $72.90/月 |
-| 洛杉矶 AN5 Eyeball | 美国 洛杉矶 | Eyeball | AN5 | 大陆优化 | 4 核 / 4GB / 80GB SSD | 10000GB / 10Gbps | $79.90/月 |
-| 中国香港 AS3 Eyeball | 中国香港 | Eyeball | AS3 | 大陆优化 | 1 核 / 1GB / 20GB SSD | 800GB / 1Gbps | $39.90/月 |
-| 中国香港 AN5 Eyeball | 中国香港 | Eyeball | AN5 | 大陆优化 | 4 核 / 4GB / 80GB SSD | 2200GB / 1Gbps | $149.90/月 |
-| 洛杉矶 AS3 Tier 1 | 美国 洛杉矶 | Tier 1 | AS3 | 国际线路 | 1 核 / 1GB / 20GB SSD | 2000GB Max (IN, OUT) / — | $6.90/月 |
-| 洛杉矶 AN5 Tier 1 | 美国 洛杉矶 | Tier 1 | AN5 | 国际线路 | 2 核 / 2GB / 40GB SSD | 5000GB Max (IN, OUT) / 10Gbps | $14.90/月 |
-| 中国香港 AS3 Tier 1 | 中国香港 | Tier 1 | AS3 | 国际线路 | 1 核 / 1GB / 20GB SSD | 2000GB Max (IN, OUT) / — | $6.90/月 |
-| 东京 AS3 Tier 1 | 日本 东京 | Tier 1 | AS3 | 国际线路 | 1 核 / 1GB / 20GB SSD | 2000GB Max (IN, OUT) / — | $6.90/月 |
+| 洛杉矶 AS3 Premium | 美国 洛杉矶 | Premium | AS3 | 大陆优化 | 1 核 / 2GB / 20GB SSD | 1000GB / 1Gbps | [$10.90/月](https://www.dmit.io/aff.php?aff=27885&pid=253) [购买](https://www.dmit.io/aff.php?aff=27885&pid=253) |
+| 洛杉矶 AN4 Premium | 美国 洛杉矶 | Premium | AN4 | 大陆优化 | 4 核 / 4GB / 80GB SSD | 5000GB / 10Gbps | [$72.90/月](https://www.dmit.io/aff.php?aff=27885) [购买](https://www.dmit.io/aff.php?aff=27885) |
+| 洛杉矶 AN5 Premium | 美国 洛杉矶 | Premium | AN5 | 大陆优化 | 4 核 / 4GB / 80GB SSD | 5000GB / 10Gbps | [$79.90/月](https://www.dmit.io/aff.php?aff=27885&pid=58) [购买](https://www.dmit.io/aff.php?aff=27885&pid=58) |
+| 中国香港 AS3 Premium | 中国香港 | Premium | AS3 | 大陆优化 | 1 核 / 1GB / 20GB SSD | 500GB / 1Gbps | [$39.90/月](https://www.dmit.io/aff.php?aff=27885&pid=265) [购买](https://www.dmit.io/aff.php?aff=27885&pid=265) |
+| 中国香港 AN5 Premium | 中国香港 | Premium | AN5 | 大陆优化 | 4 核 / 4GB / 80GB SSD | 1500GB / 1Gbps | [$149.90/月](https://www.dmit.io/aff.php?aff=27885&pid=125) [购买](https://www.dmit.io/aff.php?aff=27885&pid=125) |
+| 东京 AS3 Premium | 日本 东京 | Premium | AS3 | 大陆优化 | 1 核 / 1GB / 20GB SSD | 500GB / 1Gbps | [$21.90/月](https://www.dmit.io/aff.php?aff=27885&pid=138) [购买](https://www.dmit.io/aff.php?aff=27885&pid=138) |
+| 洛杉矶 AS3 Eyeball | 美国 洛杉矶 | Eyeball | AS3 | 大陆优化 | 1 核 / 2GB / 20GB SSD | 1500GB / 2Gbps | [$10.90/月](https://www.dmit.io/aff.php?aff=27885&pid=259) [购买](https://www.dmit.io/aff.php?aff=27885&pid=259) |
+| 洛杉矶 AN4 Eyeball | 美国 洛杉矶 | Eyeball | AN4 | 大陆优化 | 4 核 / 4GB / 80GB SSD | 10000GB / 10Gbps | [$72.90/月](https://www.dmit.io/aff.php?aff=27885) [购买](https://www.dmit.io/aff.php?aff=27885) |
+| 洛杉矶 AN5 Eyeball | 美国 洛杉矶 | Eyeball | AN5 | 大陆优化 | 4 核 / 4GB / 80GB SSD | 10000GB / 10Gbps | [$79.90/月](https://www.dmit.io/aff.php?aff=27885&pid=192) [购买](https://www.dmit.io/aff.php?aff=27885&pid=192) |
+| 中国香港 AS3 Eyeball | 中国香港 | Eyeball | AS3 | 大陆优化 | 1 核 / 1GB / 20GB SSD | 800GB / 1Gbps | [$39.90/月](https://www.dmit.io/aff.php?aff=27885&pid=210) [购买](https://www.dmit.io/aff.php?aff=27885&pid=210) |
+| 中国香港 AN5 Eyeball | 中国香港 | Eyeball | AN5 | 大陆优化 | 4 核 / 4GB / 80GB SSD | 2200GB / 1Gbps | [$149.90/月](https://www.dmit.io/aff.php?aff=27885&pid=156) [购买](https://www.dmit.io/aff.php?aff=27885&pid=156) |
+| 洛杉矶 AS3 Tier 1 | 美国 洛杉矶 | Tier 1 | AS3 | 国际线路 | 1 核 / 1GB / 20GB SSD | 2000GB Max (IN, OUT) / — | [$6.90/月](https://www.dmit.io/aff.php?aff=27885&pid=271) [购买](https://www.dmit.io/aff.php?aff=27885&pid=271) |
+| 洛杉矶 AN5 Tier 1 | 美国 洛杉矶 | Tier 1 | AN5 | 国际线路 | 2 核 / 2GB / 40GB SSD | 5000GB Max (IN, OUT) / 10Gbps | [$14.90/月](https://www.dmit.io/aff.php?aff=27885&pid=169) [购买](https://www.dmit.io/aff.php?aff=27885&pid=169) |
+| 中国香港 AS3 Tier 1 | 中国香港 | Tier 1 | AS3 | 国际线路 | 1 核 / 1GB / 20GB SSD | 2000GB Max (IN, OUT) / — | [$6.90/月](https://www.dmit.io/aff.php?aff=27885&pid=198) [购买](https://www.dmit.io/aff.php?aff=27885&pid=198) |
+| 东京 AS3 Tier 1 | 日本 东京 | Tier 1 | AS3 | 国际线路 | 1 核 / 1GB / 20GB SSD | 2000GB Max (IN, OUT) / — | [$6.90/月](https://www.dmit.io/aff.php?aff=27885&pid=131) [购买](https://www.dmit.io/aff.php?aff=27885&pid=131) |
 
 价格均为官网标价（美元），未含任何优惠码与支付手续费。年付款的档位（如 $36.90/年）单独标注。
 
@@ -109,18 +109,18 @@ Premium 是 DMIT 网络系列的**最高档**：官方描述为「结合 Tier 1 
 - **机房**：美国 洛杉矶（LAX）· CoreSite / Digital Realty 双机房
 - **网络**：Premium（CN2 GIA + 中国三大运营商直连对等）
 - **硬件**：AS3 · AMD EPYC 7003 系列（Zen 3）
-- **起价**：$10.90 / 月（TINY：1 核 / 2GB / 20GB / 1TB）
+- **起价**：$10.90 / 月（TINY：1 核 / 2GB / 20GB / 1TB）购买 [购买](https://www.dmit.io/aff.php?aff=27885&pid=253)
 
 #### 档位与价格
 
-| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 |
+| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 / 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| TINY | 1 核 | 2GB | 20GB SSD | 1000GB | 1Gbps | $ 10.90/月 |
-| Pocket | 2 核 | 2GB | 40GB SSD | 1500GB | 4Gbps | $ 16.90/月 |
-| STARTER | 2 核 | 2GB | 80GB SSD | 3000GB | 10Gbps | $ 34.90/月 |
-| MINI | 4 核 | 4GB | 80GB SSD | 5000GB | 10Gbps | $ 62.90/月 |
-| MICRO | 4 核 | 4GB | 160GB SSD | 7000GB | 10Gbps | $ 87.90/月 |
-| MEDIUM | 6 核 | 8GB | 160GB SSD | 15000GB | 10Gbps | $ 199.90/月 |
+| TINY | 1 核 | 2GB | 20GB SSD | 1000GB | 1Gbps | [$ 10.90/月](https://www.dmit.io/aff.php?aff=27885&pid=253) [购买](https://www.dmit.io/aff.php?aff=27885&pid=253) |
+| Pocket | 2 核 | 2GB | 40GB SSD | 1500GB | 4Gbps | [$ 16.90/月](https://www.dmit.io/aff.php?aff=27885&pid=254) [购买](https://www.dmit.io/aff.php?aff=27885&pid=254) |
+| STARTER | 2 核 | 2GB | 80GB SSD | 3000GB | 10Gbps | [$ 34.90/月](https://www.dmit.io/aff.php?aff=27885&pid=255) [购买](https://www.dmit.io/aff.php?aff=27885&pid=255) |
+| MINI | 4 核 | 4GB | 80GB SSD | 5000GB | 10Gbps | [$ 62.90/月](https://www.dmit.io/aff.php?aff=27885&pid=256) [购买](https://www.dmit.io/aff.php?aff=27885&pid=256) |
+| MICRO | 4 核 | 4GB | 160GB SSD | 7000GB | 10Gbps | [$ 87.90/月](https://www.dmit.io/aff.php?aff=27885&pid=257) [购买](https://www.dmit.io/aff.php?aff=27885&pid=257) |
+| MEDIUM | 6 核 | 8GB | 160GB SSD | 15000GB | 10Gbps | [$ 199.90/月](https://www.dmit.io/aff.php?aff=27885&pid=258) [购买](https://www.dmit.io/aff.php?aff=27885&pid=258) |
 
 #### 产品特点与社区反馈
 
@@ -151,17 +151,17 @@ DMIT 的招牌产品线。三网回程**全部走中国电信 CN2 GIA**，是大
 - **机房**：美国 洛杉矶（LAX）
 - **网络**：Premium（CN2 GIA）
 - **硬件**：AN4 · AMD EPYC 9004 系列（Zen 4）
-- **起价**：$72.90 / 月（MINI：4 核 / 4GB / 80GB / 5TB）
+- **起价**：$72.90 / 月（MINI：4 核 / 4GB / 80GB / 5TB）购买 [购买](https://www.dmit.io/aff.php?aff=27885)
 
 #### 档位与价格
 
-| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 |
+| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 / 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| MINI | 4 核 | 4GB | 80GB SSD | 5000GB | 10Gbps | $ 72.90/月 |
-| MICRO | 4 核 | 4GB | 160GB SSD | 7000GB | 10Gbps | $ 102.90/月 |
-| MEDIUM | 6 核 | 8GB | 160GB SSD | 15000GB | 10Gbps | $ 239.90/月 |
-| LARGE | 8 核 | 16GB | 320GB SSD | 25000GB | 10Gbps | $ 459.90/月 |
-| GIANT | 12 核 | 24GB | 640GB SSD | 50000GB | 10Gbps | $ 929.90/月 |
+| MINI | 4 核 | 4GB | 80GB SSD | 5000GB | 10Gbps | [$ 72.90/月](https://www.dmit.io/aff.php?aff=27885) [购买](https://www.dmit.io/aff.php?aff=27885) |
+| MICRO | 4 核 | 4GB | 160GB SSD | 7000GB | 10Gbps | [$ 102.90/月](https://www.dmit.io/aff.php?aff=27885) [购买](https://www.dmit.io/aff.php?aff=27885) |
+| MEDIUM | 6 核 | 8GB | 160GB SSD | 15000GB | 10Gbps | [$ 239.90/月](https://www.dmit.io/aff.php?aff=27885) [购买](https://www.dmit.io/aff.php?aff=27885) |
+| LARGE | 8 核 | 16GB | 320GB SSD | 25000GB | 10Gbps | [$ 459.90/月](https://www.dmit.io/aff.php?aff=27885) [购买](https://www.dmit.io/aff.php?aff=27885) |
+| GIANT | 12 核 | 24GB | 640GB SSD | 50000GB | 10Gbps | [$ 929.90/月](https://www.dmit.io/aff.php?aff=27885) [购买](https://www.dmit.io/aff.php?aff=27885) |
 
 #### 产品特点与社区反馈
 
@@ -194,17 +194,17 @@ DMIT 的招牌产品线。三网回程**全部走中国电信 CN2 GIA**，是大
 - **机房**：美国 洛杉矶（LAX）
 - **网络**：Premium（CN2 GIA）
 - **硬件**：AN5 · AMD EPYC 9005 系列（Zen 5）+ DDR5 + PCIe 5.0 NVMe
-- **起价**：$79.90 / 月（MINI：4 核 / 4GB / 80GB / 5TB）
+- **起价**：$79.90 / 月（MINI：4 核 / 4GB / 80GB / 5TB）购买 [购买](https://www.dmit.io/aff.php?aff=27885&pid=58)
 
 #### 档位与价格
 
-| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 |
+| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 / 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| MINI | 4 核 | 4GB | 80GB SSD | 5000GB | 10Gbps | $ 79.90/月 |
-| MICRO | 4 核 | 4GB | 160GB SSD | 7000GB | 10Gbps | $ 110.90/月 |
-| MEDIUM | 6 核 | 8GB | 160GB SSD | 15000GB | 10Gbps | $ 289.90/月 |
-| LARGE | 8 核 | 16GB | 320GB SSD | 25000GB | 10Gbps | $ 499.90/月 |
-| GIANT | 12 核 | 24GB | 640GB SSD | 50000GB | 10Gbps | $ 1009.90/月 |
+| MINI | 4 核 | 4GB | 80GB SSD | 5000GB | 10Gbps | [$ 79.90/月](https://www.dmit.io/aff.php?aff=27885&pid=58) [购买](https://www.dmit.io/aff.php?aff=27885&pid=58) |
+| MICRO | 4 核 | 4GB | 160GB SSD | 7000GB | 10Gbps | [$ 110.90/月](https://www.dmit.io/aff.php?aff=27885&pid=81) [购买](https://www.dmit.io/aff.php?aff=27885&pid=81) |
+| MEDIUM | 6 核 | 8GB | 160GB SSD | 15000GB | 10Gbps | [$ 289.90/月](https://www.dmit.io/aff.php?aff=27885&pid=82) [购买](https://www.dmit.io/aff.php?aff=27885&pid=82) |
+| LARGE | 8 核 | 16GB | 320GB SSD | 25000GB | 10Gbps | [$ 499.90/月](https://www.dmit.io/aff.php?aff=27885&pid=61) [购买](https://www.dmit.io/aff.php?aff=27885&pid=61) |
+| GIANT | 12 核 | 24GB | 640GB SSD | 50000GB | 10Gbps | [$ 1009.90/月](https://www.dmit.io/aff.php?aff=27885&pid=98) [购买](https://www.dmit.io/aff.php?aff=27885&pid=98) |
 
 #### 产品特点与社区反馈
 
@@ -233,17 +233,17 @@ DMIT 的**旗舰硬件平台**：AMD EPYC 9005（Zen 5）+ DDR5 内存 + PCIe 5.
 - **机房**：中国香港 · Equinix HK2（葵涌）
 - **网络**：Premium（CN2 GIA AS23764 + CMI AS58453）
 - **硬件**：AS3 · AMD EPYC 7003 系列（Zen 3）
-- **起价**：$39.90 / 月（TINY：1 核 / 1GB / 20GB / 500GB）
+- **起价**：$39.90 / 月（TINY：1 核 / 1GB / 20GB / 500GB）购买 [购买](https://www.dmit.io/aff.php?aff=27885&pid=265)
 
 #### 档位与价格
 
-| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 |
+| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 / 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| TINY | 1 核 | 1GB | 20GB SSD | 500GB | 1Gbps | $ 39.90/月 |
-| STARTER | 1 核 | 2GB | 40GB SSD | 1000GB | 1Gbps | $ 79.90/月 |
-| MINI | 2 核 | 4GB | 60GB SSD | 1500GB | 1Gbps | $ 126.90/月 |
-| MICRO | 4 核 | 4GB | 80GB SSD | 2000GB | 1Gbps | $ 179.90/月 |
-| MEDIUM | 4 核 | 8GB | 160GB SSD | 2500GB | 1Gbps | $ 239.90/月 |
+| TINY | 1 核 | 1GB | 20GB SSD | 500GB | 1Gbps | [$ 39.90/月](https://www.dmit.io/aff.php?aff=27885&pid=265) [购买](https://www.dmit.io/aff.php?aff=27885&pid=265) |
+| STARTER | 1 核 | 2GB | 40GB SSD | 1000GB | 1Gbps | [$ 79.90/月](https://www.dmit.io/aff.php?aff=27885&pid=266) [购买](https://www.dmit.io/aff.php?aff=27885&pid=266) |
+| MINI | 2 核 | 4GB | 60GB SSD | 1500GB | 1Gbps | [$ 126.90/月](https://www.dmit.io/aff.php?aff=27885&pid=267) [购买](https://www.dmit.io/aff.php?aff=27885&pid=267) |
+| MICRO | 4 核 | 4GB | 80GB SSD | 2000GB | 1Gbps | [$ 179.90/月](https://www.dmit.io/aff.php?aff=27885&pid=268) [购买](https://www.dmit.io/aff.php?aff=27885&pid=268) |
+| MEDIUM | 4 核 | 8GB | 160GB SSD | 2500GB | 1Gbps | [$ 239.90/月](https://www.dmit.io/aff.php?aff=27885&pid=269) [购买](https://www.dmit.io/aff.php?aff=27885&pid=269) |
 
 #### 产品特点与社区反馈
 
@@ -274,17 +274,17 @@ DMIT 距离中国内地**最近的节点**。官方数据：至中国内地平�
 - **机房**：中国香港 · Equinix HK2
 - **网络**：Premium（CN2 GIA + CMI）
 - **硬件**：AN5 · AMD EPYC 9005 系列（Zen 5）
-- **起价**：$149.90 / 月（MINI：4 核 / 4GB / 80GB / 1.5TB）
+- **起价**：$149.90 / 月（MINI：4 核 / 4GB / 80GB / 1.5TB）购买 [购买](https://www.dmit.io/aff.php?aff=27885&pid=125)
 
 #### 档位与价格
 
-| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 |
+| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 / 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| MINI | 4 核 | 4GB | 80GB SSD | 1500GB | 1Gbps | $ 149.90/月 |
-| MICRO | 4 核 | 4GB | 160GB SSD | 2000GB | 1Gbps | $ 199.90/月 |
-| MEDIUM | 6 核 | 8GB | 160GB SSD | 2500GB | 1Gbps | $ 279.90/月 |
-| LARGE | 8 核 | 16GB | 320GB SSD | 3000GB | 1Gbps | $ 359.90/月 |
-| GIANT | 12 核 | 24GB | 640GB SSD | 6000GB | 1Gbps | $ 759.90/月 |
+| MINI | 4 核 | 4GB | 80GB SSD | 1500GB | 1Gbps | [$ 149.90/月](https://www.dmit.io/aff.php?aff=27885&pid=125) [购买](https://www.dmit.io/aff.php?aff=27885&pid=125) |
+| MICRO | 4 核 | 4GB | 160GB SSD | 2000GB | 1Gbps | [$ 199.90/月](https://www.dmit.io/aff.php?aff=27885&pid=126) [购买](https://www.dmit.io/aff.php?aff=27885&pid=126) |
+| MEDIUM | 6 核 | 8GB | 160GB SSD | 2500GB | 1Gbps | [$ 279.90/月](https://www.dmit.io/aff.php?aff=27885&pid=127) [购买](https://www.dmit.io/aff.php?aff=27885&pid=127) |
+| LARGE | 8 核 | 16GB | 320GB SSD | 3000GB | 1Gbps | [$ 359.90/月](https://www.dmit.io/aff.php?aff=27885&pid=128) [购买](https://www.dmit.io/aff.php?aff=27885&pid=128) |
+| GIANT | 12 核 | 24GB | 640GB SSD | 6000GB | 1Gbps | [$ 759.90/月](https://www.dmit.io/aff.php?aff=27885&pid=129) [购买](https://www.dmit.io/aff.php?aff=27885&pid=129) |
 
 #### 产品特点与社区反馈
 
@@ -311,19 +311,19 @@ DMIT 距离中国内地**最近的节点**。官方数据：至中国内地平�
 - **机房**：日本 东京 · Equinix TY8（品川）
 - **网络**：Premium（CN2 GIA AS23764）
 - **硬件**：AS3 · AMD EPYC 7003 系列（Zen 3）
-- **起价**：$21.90 / 月（TINY：1 核 / 1GB / 20GB / 500GB）
+- **起价**：$21.90 / 月（TINY：1 核 / 1GB / 20GB / 500GB）购买 [购买](https://www.dmit.io/aff.php?aff=27885&pid=138)
 
 #### 档位与价格
 
-| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 |
+| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 / 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| TINY | 1 核 | 1GB | 20GB SSD | 500GB | 1Gbps | $ 21.90/月 |
-| STARTER | 1 核 | 2GB | 40GB SSD | 1000GB | 1Gbps | $ 45.90/月 |
-| MINI | 2 核 | 4GB | 60GB SSD | 2000GB | 1Gbps | $ 89.90/月 |
-| MICRO | 4 核 | 4GB | 80GB SSD | 4000GB | 1Gbps | $ 189.90/月 |
-| MEDIUM | 4 核 | 8GB | 160GB SSD | 6000GB | 1Gbps | $ 320.90/月 |
-| LARGE | 8 核 | 16GB | 320GB SSD | 8000GB | 1Gbps | $ 429.90/月 |
-| GIANT | 8 核 | 24GB | 640GB SSD | 15000GB | 1Gbps | $ 829.90/月 |
+| TINY | 1 核 | 1GB | 20GB SSD | 500GB | 1Gbps | [$ 21.90/月](https://www.dmit.io/aff.php?aff=27885&pid=138) [购买](https://www.dmit.io/aff.php?aff=27885&pid=138) |
+| STARTER | 1 核 | 2GB | 40GB SSD | 1000GB | 1Gbps | [$ 45.90/月](https://www.dmit.io/aff.php?aff=27885&pid=139) [购买](https://www.dmit.io/aff.php?aff=27885&pid=139) |
+| MINI | 2 核 | 4GB | 60GB SSD | 2000GB | 1Gbps | [$ 89.90/月](https://www.dmit.io/aff.php?aff=27885&pid=140) [购买](https://www.dmit.io/aff.php?aff=27885&pid=140) |
+| MICRO | 4 核 | 4GB | 80GB SSD | 4000GB | 1Gbps | [$ 189.90/月](https://www.dmit.io/aff.php?aff=27885&pid=141) [购买](https://www.dmit.io/aff.php?aff=27885&pid=141) |
+| MEDIUM | 4 核 | 8GB | 160GB SSD | 6000GB | 1Gbps | [$ 320.90/月](https://www.dmit.io/aff.php?aff=27885&pid=142) [购买](https://www.dmit.io/aff.php?aff=27885&pid=142) |
+| LARGE | 8 核 | 16GB | 320GB SSD | 8000GB | 1Gbps | [$ 429.90/月](https://www.dmit.io/aff.php?aff=27885&pid=143) [购买](https://www.dmit.io/aff.php?aff=27885&pid=143) |
+| GIANT | 8 核 | 24GB | 640GB SSD | 15000GB | 1Gbps | [$ 829.90/月](https://www.dmit.io/aff.php?aff=27885&pid=144) [购买](https://www.dmit.io/aff.php?aff=27885&pid=144) |
 
 #### 产品特点与社区反馈
 
@@ -356,18 +356,18 @@ Eyeball 是**成本与覆盖的平衡档**：官方描述为「将 Tier 1 转接
 - **机房**：美国 洛杉矶（LAX）
 - **网络**：Eyeball（CMIN2 等「合理努力」中国路由）
 - **硬件**：AS3 · AMD EPYC 7003 系列（Zen 3）
-- **起价**：$10.90 / 月（TINY：1 核 / 2GB / 20GB / 1.5TB）
+- **起价**：$10.90 / 月（TINY：1 核 / 2GB / 20GB / 1.5TB）购买 [购买](https://www.dmit.io/aff.php?aff=27885&pid=259)
 
 #### 档位与价格
 
-| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 |
+| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 / 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| TINY | 1 核 | 2GB | 20GB SSD | 1500GB | 2Gbps | $ 10.90/月 |
-| Pocket | 2 核 | 2GB | 40GB SSD | 3000GB | 4Gbps | $ 16.90/月 |
-| STARTER | 2 核 | 2GB | 80GB SSD | 5000GB | 10Gbps | $ 34.90/月 |
-| MINI | 4 核 | 4GB | 80GB SSD | 10000GB | 10Gbps | $ 62.90/月 |
-| MICRO | 4 核 | 4GB | 160GB SSD | 14000GB | 10Gbps | $ 87.90/月 |
-| MEDIUM | 6 核 | 8GB | 160GB SSD | 30000GB | 10Gbps | $ 199.90/月 |
+| TINY | 1 核 | 2GB | 20GB SSD | 1500GB | 2Gbps | [$ 10.90/月](https://www.dmit.io/aff.php?aff=27885&pid=259) [购买](https://www.dmit.io/aff.php?aff=27885&pid=259) |
+| Pocket | 2 核 | 2GB | 40GB SSD | 3000GB | 4Gbps | [$ 16.90/月](https://www.dmit.io/aff.php?aff=27885&pid=260) [购买](https://www.dmit.io/aff.php?aff=27885&pid=260) |
+| STARTER | 2 核 | 2GB | 80GB SSD | 5000GB | 10Gbps | [$ 34.90/月](https://www.dmit.io/aff.php?aff=27885&pid=261) [购买](https://www.dmit.io/aff.php?aff=27885&pid=261) |
+| MINI | 4 核 | 4GB | 80GB SSD | 10000GB | 10Gbps | [$ 62.90/月](https://www.dmit.io/aff.php?aff=27885&pid=262) [购买](https://www.dmit.io/aff.php?aff=27885&pid=262) |
+| MICRO | 4 核 | 4GB | 160GB SSD | 14000GB | 10Gbps | [$ 87.90/月](https://www.dmit.io/aff.php?aff=27885&pid=263) [购买](https://www.dmit.io/aff.php?aff=27885&pid=263) |
+| MEDIUM | 6 核 | 8GB | 160GB SSD | 30000GB | 10Gbps | [$ 199.90/月](https://www.dmit.io/aff.php?aff=27885&pid=264) [购买](https://www.dmit.io/aff.php?aff=27885&pid=264) |
 
 #### 产品特点与社区反馈
 
@@ -402,17 +402,17 @@ DMIT 官方客服对这条线的定性是：「联通与移动网络推荐 LAX E
 - **机房**：美国 洛杉矶（LAX）
 - **网络**：Eyeball（CMIN2 等）
 - **硬件**：AN4 · AMD EPYC 9004 系列（Zen 4）
-- **起价**：$72.90 / 月（MINI：4 核 / 4GB / 80GB / 10TB）
+- **起价**：$72.90 / 月（MINI：4 核 / 4GB / 80GB / 10TB）购买 [购买](https://www.dmit.io/aff.php?aff=27885)
 
 #### 档位与价格
 
-| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 |
+| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 / 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| MINI | 4 核 | 4GB | 80GB SSD | 10000GB | 10Gbps | $ 72.90/月 |
-| MICRO | 4 核 | 4GB | 160GB SSD | 14000GB | 10Gbps | $ 102.90/月 |
-| MEDIUM | 6 核 | 8GB | 160GB SSD | 30000GB | 10Gbps | $ 239.90/月 |
-| LARGE | 8 核 | 16GB | 320GB SSD | 50000GB | 10Gbps | $ 459.90/月 |
-| GIANT | 12 核 | 24GB | 640GB SSD | 100000GB | 10Gbps | $ 929.90/月 |
+| MINI | 4 核 | 4GB | 80GB SSD | 10000GB | 10Gbps | [$ 72.90/月](https://www.dmit.io/aff.php?aff=27885) [购买](https://www.dmit.io/aff.php?aff=27885) |
+| MICRO | 4 核 | 4GB | 160GB SSD | 14000GB | 10Gbps | [$ 102.90/月](https://www.dmit.io/aff.php?aff=27885) [购买](https://www.dmit.io/aff.php?aff=27885) |
+| MEDIUM | 6 核 | 8GB | 160GB SSD | 30000GB | 10Gbps | [$ 239.90/月](https://www.dmit.io/aff.php?aff=27885) [购买](https://www.dmit.io/aff.php?aff=27885) |
+| LARGE | 8 核 | 16GB | 320GB SSD | 50000GB | 10Gbps | [$ 459.90/月](https://www.dmit.io/aff.php?aff=27885) [购买](https://www.dmit.io/aff.php?aff=27885) |
+| GIANT | 12 核 | 24GB | 640GB SSD | 100000GB | 10Gbps | [$ 929.90/月](https://www.dmit.io/aff.php?aff=27885) [购买](https://www.dmit.io/aff.php?aff=27885) |
 
 #### 产品特点与社区反馈
 
@@ -443,17 +443,17 @@ DMIT 官方客服对这条线的定性是：「联通与移动网络推荐 LAX E
 - **机房**：美国 洛杉矶（LAX）
 - **网络**：Eyeball（CMIN2 等）
 - **硬件**：AN5 · AMD EPYC 9005 系列（Zen 5）
-- **起价**：$79.90 / 月（MINI：4 核 / 4GB / 80GB / 10TB）
+- **起价**：$79.90 / 月（MINI：4 核 / 4GB / 80GB / 10TB）购买 [购买](https://www.dmit.io/aff.php?aff=27885&pid=192)
 
 #### 档位与价格
 
-| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 |
+| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 / 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| MINI | 4 核 | 4GB | 80GB SSD | 10000GB | 10Gbps | $ 79.90/月 |
-| MICRO | 4 核 | 4GB | 160GB SSD | 14000GB | 10Gbps | $ 110.90/月 |
-| MEDIUM | 6 核 | 8GB | 160GB SSD | 30000GB | 10Gbps | $ 289.90/月 |
-| LARGE | 8 核 | 16GB | 320GB SSD | 50000GB | 10Gbps | $ 499.90/月 |
-| GIANT | 12 核 | 24GB | 640GB SSD | 100000GB | 10Gbps | $ 1009.90/月 |
+| MINI | 4 核 | 4GB | 80GB SSD | 10000GB | 10Gbps | [$ 79.90/月](https://www.dmit.io/aff.php?aff=27885&pid=192) [购买](https://www.dmit.io/aff.php?aff=27885&pid=192) |
+| MICRO | 4 核 | 4GB | 160GB SSD | 14000GB | 10Gbps | [$ 110.90/月](https://www.dmit.io/aff.php?aff=27885&pid=193) [购买](https://www.dmit.io/aff.php?aff=27885&pid=193) |
+| MEDIUM | 6 核 | 8GB | 160GB SSD | 30000GB | 10Gbps | [$ 289.90/月](https://www.dmit.io/aff.php?aff=27885&pid=194) [购买](https://www.dmit.io/aff.php?aff=27885&pid=194) |
+| LARGE | 8 核 | 16GB | 320GB SSD | 50000GB | 10Gbps | [$ 499.90/月](https://www.dmit.io/aff.php?aff=27885&pid=195) [购买](https://www.dmit.io/aff.php?aff=27885&pid=195) |
+| GIANT | 12 核 | 24GB | 640GB SSD | 100000GB | 10Gbps | [$ 1009.90/月](https://www.dmit.io/aff.php?aff=27885&pid=196) [购买](https://www.dmit.io/aff.php?aff=27885&pid=196) |
 
 #### 产品特点与社区反馈
 
@@ -482,17 +482,17 @@ DMIT 官方客服对这条线的定性是：「联通与移动网络推荐 LAX E
 - **机房**：中国香港 · Equinix HK2
 - **网络**：Eyeball（CMIN2 等）
 - **硬件**：AS3 · AMD EPYC 7003 系列（Zen 3）
-- **起价**：$39.90 / 月（另有年付款）
+- **起价**：$39.90 / 月（另有年付款）购买 [购买](https://www.dmit.io/aff.php?aff=27885&pid=210)
 
 #### 档位与价格
 
-| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 |
+| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 / 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| TINY | 1 核 | 1GB | 20GB SSD | 800GB | 1Gbps | $ 39.90/月 |
-| STARTER | 1 核 | 2GB | 40GB SSD | 1500GB | 1Gbps | $ 79.90/月 |
-| MINI | 2 核 | 4GB | 60GB SSD | 2200GB | 1Gbps | $ 126.90/月 |
-| MICRO | 4 核 | 4GB | 80GB SSD | 3000GB | 1Gbps | $ 179.90/月 |
-| MEDIUM | 4 核 | 8GB | 160GB SSD | 4000GB | 1Gbps | $ 239.90/月 |
+| TINY | 1 核 | 1GB | 20GB SSD | 800GB | 1Gbps | [$ 39.90/月](https://www.dmit.io/aff.php?aff=27885&pid=210) [购买](https://www.dmit.io/aff.php?aff=27885&pid=210) |
+| STARTER | 1 核 | 2GB | 40GB SSD | 1500GB | 1Gbps | [$ 79.90/月](https://www.dmit.io/aff.php?aff=27885&pid=211) [购买](https://www.dmit.io/aff.php?aff=27885&pid=211) |
+| MINI | 2 核 | 4GB | 60GB SSD | 2200GB | 1Gbps | [$ 126.90/月](https://www.dmit.io/aff.php?aff=27885&pid=212) [购买](https://www.dmit.io/aff.php?aff=27885&pid=212) |
+| MICRO | 4 核 | 4GB | 80GB SSD | 3000GB | 1Gbps | [$ 179.90/月](https://www.dmit.io/aff.php?aff=27885&pid=213) [购买](https://www.dmit.io/aff.php?aff=27885&pid=213) |
+| MEDIUM | 4 核 | 8GB | 160GB SSD | 4000GB | 1Gbps | [$ 239.90/月](https://www.dmit.io/aff.php?aff=27885&pid=214) [购买](https://www.dmit.io/aff.php?aff=27885&pid=214) |
 
 #### 产品特点与社区反馈
 
@@ -523,17 +523,17 @@ HKG.AS3.EB.WEE 被社区戏称为「特惠款」——年付 $298.88（与 VICTO
 - **机房**：中国香港 · Equinix HK2
 - **网络**：Eyeball（CMIN2 等）
 - **硬件**：AN5 · AMD EPYC 9005 系列（Zen 5）
-- **起价**：$149.90 / 月（MINI：4 核 / 4GB / 80GB / 2.2TB）
+- **起价**：$149.90 / 月（MINI：4 核 / 4GB / 80GB / 2.2TB）购买 [购买](https://www.dmit.io/aff.php?aff=27885&pid=156)
 
 #### 档位与价格
 
-| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 |
+| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 / 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| MINI | 4 核 | 4GB | 80GB SSD | 2200GB | 1Gbps | $ 149.90/月 |
-| MICRO | 4 核 | 4GB | 160GB SSD | 3000GB | 1Gbps | $ 199.90/月 |
-| MEDIUM | 6 核 | 8GB | 160GB SSD | 4000GB | 1Gbps | $ 279.90/月 |
-| LARGE | 8 核 | 16GB | 320GB SSD | 4500GB | 1Gbps | $ 359.90/月 |
-| GIANT | 12 核 | 24GB | 640GB SSD | 9000GB | 1Gbps | $ 759.90/月 |
+| MINI | 4 核 | 4GB | 80GB SSD | 2200GB | 1Gbps | [$ 149.90/月](https://www.dmit.io/aff.php?aff=27885&pid=156) [购买](https://www.dmit.io/aff.php?aff=27885&pid=156) |
+| MICRO | 4 核 | 4GB | 160GB SSD | 3000GB | 1Gbps | [$ 199.90/月](https://www.dmit.io/aff.php?aff=27885&pid=157) [购买](https://www.dmit.io/aff.php?aff=27885&pid=157) |
+| MEDIUM | 6 核 | 8GB | 160GB SSD | 4000GB | 1Gbps | [$ 279.90/月](https://www.dmit.io/aff.php?aff=27885&pid=158) [购买](https://www.dmit.io/aff.php?aff=27885&pid=158) |
+| LARGE | 8 核 | 16GB | 320GB SSD | 4500GB | 1Gbps | [$ 359.90/月](https://www.dmit.io/aff.php?aff=27885&pid=159) [购买](https://www.dmit.io/aff.php?aff=27885&pid=159) |
+| GIANT | 12 核 | 24GB | 640GB SSD | 9000GB | 1Gbps | [$ 759.90/月](https://www.dmit.io/aff.php?aff=27885&pid=160) [购买](https://www.dmit.io/aff.php?aff=27885&pid=160) |
 
 #### 产品特点与社区反馈
 
@@ -564,17 +564,17 @@ Tier 1 是**性价比最高的一组**：官方描述为「专注亚太与美洲
 - **机房**：美国 洛杉矶（LAX）
 - **网络**：Tier 1（国际线路，无中国内地优化）
 - **硬件**：AS3 · AMD EPYC 7003 系列（Zen 3）
-- **起价**：$6.90 / 月（TINY：1 核 / 1GB / 20GB / 2TB）
+- **起价**：$6.90 / 月（TINY：1 核 / 1GB / 20GB / 2TB）购买 [购买](https://www.dmit.io/aff.php?aff=27885&pid=271)
 
 #### 档位与价格
 
-| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 |
+| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 / 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| WEE | 1 核 | 1GB | 20GB SSD | 1000GB Max (IN, OUT) | — | $ 36.90/年 |
-| TINY | 1 核 | 1GB | 20GB SSD | 2000GB Max (IN, OUT) | — | $ 6.90/月 |
-| STARTER | 2 核 | 2GB | 40GB SSD | 4000GB Max (IN, OUT) | — | $ 12.90/月 |
-| MINI | 2 核 | 4GB | 80GB SSD | 8000GB Max (IN, OUT) | — | $ 21.90/月 |
-| MICRO | 4 核 | 4GB | 120GB SSD | 16000GB Max (IN, OUT) | — | $ 32.90/月 |
+| WEE | 1 核 | 1GB | 20GB SSD | 1000GB Max (IN, OUT) | — | [$ 36.90/年](https://www.dmit.io/aff.php?aff=27885&pid=270) [购买](https://www.dmit.io/aff.php?aff=27885&pid=270) |
+| TINY | 1 核 | 1GB | 20GB SSD | 2000GB Max (IN, OUT) | — | [$ 6.90/月](https://www.dmit.io/aff.php?aff=27885&pid=271) [购买](https://www.dmit.io/aff.php?aff=27885&pid=271) |
+| STARTER | 2 核 | 2GB | 40GB SSD | 4000GB Max (IN, OUT) | — | [$ 12.90/月](https://www.dmit.io/aff.php?aff=27885&pid=272) [购买](https://www.dmit.io/aff.php?aff=27885&pid=272) |
+| MINI | 2 核 | 4GB | 80GB SSD | 8000GB Max (IN, OUT) | — | [$ 21.90/月](https://www.dmit.io/aff.php?aff=27885&pid=273) [购买](https://www.dmit.io/aff.php?aff=27885&pid=273) |
+| MICRO | 4 核 | 4GB | 120GB SSD | 16000GB Max (IN, OUT) | — | [$ 32.90/月](https://www.dmit.io/aff.php?aff=27885&pid=274) [购买](https://www.dmit.io/aff.php?aff=27885&pid=274) |
 
 #### 产品特点与社区反馈
 
@@ -605,23 +605,23 @@ DMIT 全线**最便宜的入口**：$6.90/月，另有 $36.90/年的 WEE 档。
 - **机房**：美国 洛杉矶（LAX）
 - **网络**：Tier 1（国际线路）
 - **硬件**：AN5 · AMD EPYC 9005 系列（Zen 5）
-- **起价**：$14.90 / 月（V2C2G：2 核 / 2GB / 40GB / 5TB）
+- **起价**：$14.90 / 月（V2C2G：2 核 / 2GB / 40GB / 5TB）购买 [购买](https://www.dmit.io/aff.php?aff=27885&pid=169)
 
 #### 档位与价格
 
-| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 |
+| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 / 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| V2C2G | 2 核 | 2GB | 40GB SSD | 5000GB Max (IN, OUT) | 10Gbps | $ 14.90/月 |
-| V2C4G | 2 核 | 4GB | 80GB SSD | 10000GB Max (IN, OUT) | 10Gbps | $ 23.90/月 |
-| V4C4G | 4 核 | 4GB | 120GB SSD | 20000GB Max (IN, OUT) | 10Gbps | $ 36.90/月 |
-| V4C8G | 4 核 | 8GB | 160GB SSD | 40000GB Max (IN, OUT) | 10Gbps | $ 52.90/月 |
-| V8C16G | 8 核 | 16GB | 240GB SSD | 80000GB Max (IN, OUT) | 10Gbps | $ 119.90/月 |
-| V12C24G | 12 核 | 24GB | 320GB SSD | 160000GB Max (IN, OUT) | 10Gbps | $ 199.90/月 |
-| G2C4G | 2 核 | 4GB | 80GB SSD | 4000GB Max (IN, OUT) | 10Gbps | $ 16.90/月 |
-| G4C8G | 4 核 | 8GB | 160GB SSD | 8000GB Max (IN, OUT) | 10Gbps | $ 36.90/月 |
-| G8C16G | 8 核 | 16GB | 320GB SSD | 12000GB Max (IN, OUT) | 10Gbps | $ 79.90/月 |
-| G12C24G | 12 核 | 24GB | 480GB SSD | 240000GB Max (IN, OUT) | 10Gbps | $ 119.90/月 |
-| G16C32G | 16 核 | 32GB | 640GB SSD | 320000GB Max (IN, OUT) | 10Gbps | $ 199.90/月 |
+| V2C2G | 2 核 | 2GB | 40GB SSD | 5000GB Max (IN, OUT) | 10Gbps | [$ 14.90/月](https://www.dmit.io/aff.php?aff=27885&pid=169) [购买](https://www.dmit.io/aff.php?aff=27885&pid=169) |
+| V2C4G | 2 核 | 4GB | 80GB SSD | 10000GB Max (IN, OUT) | 10Gbps | [$ 23.90/月](https://www.dmit.io/aff.php?aff=27885&pid=170) [购买](https://www.dmit.io/aff.php?aff=27885&pid=170) |
+| V4C4G | 4 核 | 4GB | 120GB SSD | 20000GB Max (IN, OUT) | 10Gbps | [$ 36.90/月](https://www.dmit.io/aff.php?aff=27885&pid=171) [购买](https://www.dmit.io/aff.php?aff=27885&pid=171) |
+| V4C8G | 4 核 | 8GB | 160GB SSD | 40000GB Max (IN, OUT) | 10Gbps | [$ 52.90/月](https://www.dmit.io/aff.php?aff=27885&pid=180) [购买](https://www.dmit.io/aff.php?aff=27885&pid=180) |
+| V8C16G | 8 核 | 16GB | 240GB SSD | 80000GB Max (IN, OUT) | 10Gbps | [$ 119.90/月](https://www.dmit.io/aff.php?aff=27885&pid=172) [购买](https://www.dmit.io/aff.php?aff=27885&pid=172) |
+| V12C24G | 12 核 | 24GB | 320GB SSD | 160000GB Max (IN, OUT) | 10Gbps | [$ 199.90/月](https://www.dmit.io/aff.php?aff=27885&pid=173) [购买](https://www.dmit.io/aff.php?aff=27885&pid=173) |
+| G2C4G | 2 核 | 4GB | 80GB SSD | 4000GB Max (IN, OUT) | 10Gbps | [$ 16.90/月](https://www.dmit.io/aff.php?aff=27885&pid=234) [购买](https://www.dmit.io/aff.php?aff=27885&pid=234) |
+| G4C8G | 4 核 | 8GB | 160GB SSD | 8000GB Max (IN, OUT) | 10Gbps | [$ 36.90/月](https://www.dmit.io/aff.php?aff=27885&pid=235) [购买](https://www.dmit.io/aff.php?aff=27885&pid=235) |
+| G8C16G | 8 核 | 16GB | 320GB SSD | 12000GB Max (IN, OUT) | 10Gbps | [$ 79.90/月](https://www.dmit.io/aff.php?aff=27885&pid=236) [购买](https://www.dmit.io/aff.php?aff=27885&pid=236) |
+| G12C24G | 12 核 | 24GB | 480GB SSD | 240000GB Max (IN, OUT) | 10Gbps | [$ 119.90/月](https://www.dmit.io/aff.php?aff=27885&pid=174) [购买](https://www.dmit.io/aff.php?aff=27885&pid=174) |
+| G16C32G | 16 核 | 32GB | 640GB SSD | 320000GB Max (IN, OUT) | 10Gbps | [$ 199.90/月](https://www.dmit.io/aff.php?aff=27885&pid=175) [购买](https://www.dmit.io/aff.php?aff=27885&pid=175) |
 
 #### 产品特点与社区反馈
 
@@ -648,20 +648,20 @@ DMIT 全线**最便宜的入口**：$6.90/月，另有 $36.90/年的 WEE 档。
 - **机房**：中国香港 · Equinix HK2
 - **网络**：Tier 1（2.4Tbps 国际带宽，无中国内地优化）
 - **硬件**：AS3 · AMD EPYC 7003 系列（Zen 3）
-- **起价**：$6.90 / 月（TINY：1 核 / 1GB / 20GB / 2TB）
+- **起价**：$6.90 / 月（TINY：1 核 / 1GB / 20GB / 2TB）购买 [购买](https://www.dmit.io/aff.php?aff=27885&pid=198)
 
 #### 档位与价格
 
-| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 |
+| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 / 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| WEE | 1 核 | 1GB | 20GB SSD | 1000GB Max (IN, OUT) | — | $ 36.90/年 |
-| TINY | 1 核 | 1GB | 20GB SSD | 2000GB Max (IN, OUT) | — | $ 6.90/月 |
-| STARTER | 1 核 | 2GB | 40GB SSD | 4000GB Max (IN, OUT) | — | $ 12.90/月 |
-| MINI | 2 核 | 2GB | 60GB SSD | 8000GB Max (IN, OUT) | — | $ 21.90/月 |
-| MICRO | 4 核 | 4GB | 80GB SSD | 16000GB Max (IN, OUT) | — | $ 32.90/月 |
-| MEDIUM | 4 核 | 8GB | 160GB SSD | 32000GB Max (IN, OUT) | — | $ 49.90/月 |
-| LARGE | 8 核 | 16GB | 320GB SSD | 64000GB Max (IN, OUT) | — | $ 99.90/月 |
-| GIANT | 8 核 | 24GB | 640GB SSD | 128000GB Max (IN, OUT) | — | $ 199.90/月 |
+| WEE | 1 核 | 1GB | 20GB SSD | 1000GB Max (IN, OUT) | — | [$ 36.90/年](https://www.dmit.io/aff.php?aff=27885&pid=197) [购买](https://www.dmit.io/aff.php?aff=27885&pid=197) |
+| TINY | 1 核 | 1GB | 20GB SSD | 2000GB Max (IN, OUT) | — | [$ 6.90/月](https://www.dmit.io/aff.php?aff=27885&pid=198) [购买](https://www.dmit.io/aff.php?aff=27885&pid=198) |
+| STARTER | 1 核 | 2GB | 40GB SSD | 4000GB Max (IN, OUT) | — | [$ 12.90/月](https://www.dmit.io/aff.php?aff=27885&pid=199) [购买](https://www.dmit.io/aff.php?aff=27885&pid=199) |
+| MINI | 2 核 | 2GB | 60GB SSD | 8000GB Max (IN, OUT) | — | [$ 21.90/月](https://www.dmit.io/aff.php?aff=27885&pid=200) [购买](https://www.dmit.io/aff.php?aff=27885&pid=200) |
+| MICRO | 4 核 | 4GB | 80GB SSD | 16000GB Max (IN, OUT) | — | [$ 32.90/月](https://www.dmit.io/aff.php?aff=27885&pid=201) [购买](https://www.dmit.io/aff.php?aff=27885&pid=201) |
+| MEDIUM | 4 核 | 8GB | 160GB SSD | 32000GB Max (IN, OUT) | — | [$ 49.90/月](https://www.dmit.io/aff.php?aff=27885&pid=202) [购买](https://www.dmit.io/aff.php?aff=27885&pid=202) |
+| LARGE | 8 核 | 16GB | 320GB SSD | 64000GB Max (IN, OUT) | — | [$ 99.90/月](https://www.dmit.io/aff.php?aff=27885&pid=203) [购买](https://www.dmit.io/aff.php?aff=27885&pid=203) |
+| GIANT | 8 核 | 24GB | 640GB SSD | 128000GB Max (IN, OUT) | — | [$ 199.90/月](https://www.dmit.io/aff.php?aff=27885&pid=204) [购买](https://www.dmit.io/aff.php?aff=27885&pid=204) |
 
 #### 产品特点与社区反馈
 
@@ -688,20 +688,20 @@ DMIT 全线**最便宜的入口**：$6.90/月，另有 $36.90/年的 WEE 档。
 - **机房**：日本 东京 · Equinix TY8（品川）
 - **网络**：Tier 1（1.4Tbps 国际带宽，无中国内地优化）
 - **硬件**：AS3 · AMD EPYC 7003 系列（Zen 3）
-- **起价**：$6.90 / 月（TINY：1 核 / 1GB / 20GB / 2TB）
+- **起价**：$6.90 / 月（TINY：1 核 / 1GB / 20GB / 2TB）购买 [购买](https://www.dmit.io/aff.php?aff=27885&pid=131)
 
 #### 档位与价格
 
-| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 |
+| 档位 | CPU | 内存 | 硬盘 | 流量 | 带宽 | 价格 / 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| WEE | 1 核 | 1GB | 20GB SSD | 1000GB Max (IN, OUT) | — | $ 36.90/年 |
-| TINY | 1 核 | 1GB | 20GB SSD | 2000GB Max (IN, OUT) | — | $ 6.90/月 |
-| STARTER | 1 核 | 2GB | 40GB SSD | 4000GB Max (IN, OUT) | — | $ 12.90/月 |
-| MINI | 2 核 | 2GB | 60GB SSD | 8000GB Max (IN, OUT) | — | $ 21.90/月 |
-| MICRO | 4 核 | 4GB | 80GB SSD | 16000GB Max (IN, OUT) | — | $ 32.90/月 |
-| MEDIUM | 4 核 | 8GB | 160GB SSD | 32000GB Max (IN, OUT) | — | $ 49.90/月 |
-| LARGE | 8 核 | 16GB | 320GB SSD | 64000GB Max (IN, OUT) | — | $ 99.90/月 |
-| GIANT | 8 核 | 24GB | 640GB SSD | 128000GB Max (IN, OUT) | — | $ 199.90/月 |
+| WEE | 1 核 | 1GB | 20GB SSD | 1000GB Max (IN, OUT) | — | [$ 36.90/年](https://www.dmit.io/aff.php?aff=27885&pid=228) [购买](https://www.dmit.io/aff.php?aff=27885&pid=228) |
+| TINY | 1 核 | 1GB | 20GB SSD | 2000GB Max (IN, OUT) | — | [$ 6.90/月](https://www.dmit.io/aff.php?aff=27885&pid=131) [购买](https://www.dmit.io/aff.php?aff=27885&pid=131) |
+| STARTER | 1 核 | 2GB | 40GB SSD | 4000GB Max (IN, OUT) | — | [$ 12.90/月](https://www.dmit.io/aff.php?aff=27885&pid=132) [购买](https://www.dmit.io/aff.php?aff=27885&pid=132) |
+| MINI | 2 核 | 2GB | 60GB SSD | 8000GB Max (IN, OUT) | — | [$ 21.90/月](https://www.dmit.io/aff.php?aff=27885&pid=133) [购买](https://www.dmit.io/aff.php?aff=27885&pid=133) |
+| MICRO | 4 核 | 4GB | 80GB SSD | 16000GB Max (IN, OUT) | — | [$ 32.90/月](https://www.dmit.io/aff.php?aff=27885&pid=134) [购买](https://www.dmit.io/aff.php?aff=27885&pid=134) |
+| MEDIUM | 4 核 | 8GB | 160GB SSD | 32000GB Max (IN, OUT) | — | [$ 49.90/月](https://www.dmit.io/aff.php?aff=27885&pid=135) [购买](https://www.dmit.io/aff.php?aff=27885&pid=135) |
+| LARGE | 8 核 | 16GB | 320GB SSD | 64000GB Max (IN, OUT) | — | [$ 99.90/月](https://www.dmit.io/aff.php?aff=27885&pid=136) [购买](https://www.dmit.io/aff.php?aff=27885&pid=136) |
+| GIANT | 8 核 | 24GB | 640GB SSD | 128000GB Max (IN, OUT) | — | [$ 199.90/月](https://www.dmit.io/aff.php?aff=27885&pid=229) [购买](https://www.dmit.io/aff.php?aff=27885&pid=229) |
 
 #### 产品特点与社区反馈
 

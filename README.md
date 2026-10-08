@@ -8,9 +8,36 @@
 
 | 文件 | 说明 |
 |------|------|
-| `dmit-vps-guide.html` | 主页面（单文件，零图片，含 JSON-LD 结构化数据） |
-| `dmit-vps-guide.md` | 同一内容的 Markdown 版 |
-| `index.html` | 跳转页（`/` → `dmit-vps-guide.html`） |
+| [`dmit-vps-guide.html`](dmit-vps-guide.html) | 主页面（单文件，含 JSON-LD 结构化数据；每个档位价格均有 aff 购买链接） |
+| [`dmit-vps-guide.md`](dmit-vps-guide.md) | 同一内容的 Markdown 版；每个档位价格均附 aff 购买链接 |
+| [`index.html`](index.html) | 首页跳转页（`/` → `dmit-vps-guide.html`） |
+| [GitHub Pages 预览](https://peterxulove.github.io/dmit-vps/dmit-vps-guide.html) | 在线选购指南 |
+| [Google Sites 预览](https://sites.google.com/view/dmit-vps-guide) | Google Sites 镜像页 |
+
+## DMIT 推广购买入口（aff=27885）
+
+以下为 DMIT 官方产品级推广链接。通过链接访问后购买，不会增加用户费用。
+
+| 产品线 | 参考起价 | 推广购买链接 |
+|--------|----------|--------------|
+| 洛杉矶 AS3 Premium | $10.90/月 | [TINY · pid=253](https://www.dmit.io/aff.php?aff=27885&pid=253) |
+| 洛杉矶 AN4 Premium | 官网暂未开放下单 | [DMIT 推广入口](https://www.dmit.io/aff.php?aff=27885) |
+| 洛杉矶 AN5 Premium | $79.90/月 | [MINI · pid=58](https://www.dmit.io/aff.php?aff=27885&pid=58) |
+| 洛杉矶 AS3 Eyeball | $10.90/月 | [TINY · pid=259](https://www.dmit.io/aff.php?aff=27885&pid=259) |
+| 洛杉矶 AN4 Eyeball | 官网暂未开放下单 | [DMIT 推广入口](https://www.dmit.io/aff.php?aff=27885) |
+| 洛杉矶 AN5 Eyeball | $79.90/月 | [MINI · pid=192](https://www.dmit.io/aff.php?aff=27885&pid=192) |
+| 洛杉矶 AN5 Tier 1 | $14.90/月 | [V2C2G · pid=169](https://www.dmit.io/aff.php?aff=27885&pid=169) |
+| 洛杉矶 AS3 Tier 1 | $6.90/月 | [TINY · pid=271](https://www.dmit.io/aff.php?aff=27885&pid=271) |
+| 中国香港 AN5 Premium | $149.90/月 | [MINI · pid=125](https://www.dmit.io/aff.php?aff=27885&pid=125) |
+| 中国香港 AS3 Premium | $39.90/月 | [TINY · pid=265](https://www.dmit.io/aff.php?aff=27885&pid=265) |
+| 中国香港 AN5 Eyeball | $149.90/月 | [MINI · pid=156](https://www.dmit.io/aff.php?aff=27885&pid=156) |
+| 中国香港 AS3 Eyeball | $39.90/月 | [TINY · pid=210](https://www.dmit.io/aff.php?aff=27885&pid=210) |
+| 中国香港 AS3 Tier 1 | $6.90/月 | [TINY · pid=198](https://www.dmit.io/aff.php?aff=27885&pid=198) |
+| 东京 AS3 Premium | $21.90/月 | [TINY · pid=138](https://www.dmit.io/aff.php?aff=27885&pid=138) |
+| 东京 AS3 Tier 1 | $6.90/月 | [TINY · pid=131](https://www.dmit.io/aff.php?aff=27885&pid=131) |
+
+> AN4 两条产品线在官网价格页展示了价格，但目前没有档位下单 pid；链接先到 DMIT 推广入口，
+> 是否开放下单以官网为准。详细价格、规格与每档位的购买链接见 HTML / Markdown 指南。
 
 ## 内容结构
 
@@ -27,9 +54,8 @@
 
 ## 数据来源
 
-- 产品与价格：DMIT 官网 <https://www.dmit.io/pages/pricing>（2026-10-08 抓取）
+- 产品与价格：DMIT 官网定价页（2026-10-08 抓取）；购买入口均用上方 aff 链接
 - 第三方测评：NodeSeek 搜索「dmit」12 页 599 条结果中的 57 篇正文与 717 条评论
 - 采集方式：本机 Chrome 登录态 + CDP
 
 > 价格与库存为抓取时点快照，随时可能变动；以官网实时信息为准。
-> 文中购买链接含推广参数（aff），不影响你的购买价格。
